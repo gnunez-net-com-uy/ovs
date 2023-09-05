@@ -3,7 +3,7 @@
    are kept up-to-date.
 
 ============
-Open vSwitch
+Open vSwitch_GN
 ============
 
 .. image:: https://github.com/openvswitch/ovs/workflows/Build%20and%20Test/badge.svg
